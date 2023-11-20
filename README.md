@@ -6,7 +6,7 @@ This is the repository in which all the code relating to performing various Mach
 
 Datasets Used:
 
-(1) - https://archive.ics.uci.edu/dataset/20/census+income
+(1) - https://archive.ics.uci.edu/dataset/31/covertype
 
 (2) - https://archive.ics.uci.edu/dataset/76/nursery
 
